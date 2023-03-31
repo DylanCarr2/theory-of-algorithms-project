@@ -1,1 +1,2 @@
-# theory-of-algorithms-project
+# README - Polynomial Time Notebook
+In this repository, you will find a Jupyter Notebook that briefly talks about Polynomial Time, and the complexity class P, along with Deterministic Turing Machines, and some Big O Notation.
